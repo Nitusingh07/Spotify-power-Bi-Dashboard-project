@@ -1,4 +1,4 @@
-🎵 Spotify Power BI Dashboard Project
+🎵Spotify Power BI Dashboard Project
 
 Analyze Music Trends, Top Artists & Listening Insights
 
