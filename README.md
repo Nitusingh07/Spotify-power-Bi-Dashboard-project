@@ -1,7 +1,7 @@
 🎵Spotify Power BI Dashboard Project
 
 Analyze Music Trends, Top Artists & Listening Insights
-
+ 
 This project is a professionally designed Spotify Power BI Dashboard that helps analyze music trends, top artists, track performance, and listener preferences using real-world Spotify data. It is ideal for students, data analysts, and professionals who want to showcase their Power BI and data analytics skills through an interactive and insightful project.
 
 🚀 Project Overview
